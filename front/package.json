@@ -26,3 +26,20 @@
     "vite": "^6.0.1"
   }
 }
+
+{
+  "name": "c11-chatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assistant.js",
+  "type": "module",
+  "scripts": {
+    "start": "node assistant.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
